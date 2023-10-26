@@ -16,7 +16,7 @@ public class ConditionalSentences {
 		} else {
 			System.out.println("Bom dia");
 		}
-		
+
 		sc.close();
 	}
 }
